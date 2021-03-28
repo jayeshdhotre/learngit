@@ -2,6 +2,7 @@ package dsalgo.LinkedList;
 
 public class SinglyLinkedList {
 	
+	//head
 	private ListNode head;
 	
 	private static class ListNode
